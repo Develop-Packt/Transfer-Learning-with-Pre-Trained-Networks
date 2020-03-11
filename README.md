@@ -1,2 +1,5 @@
-# Transfer-Learning-with-Pre-Trained-Networks
-This module is part of the Deep Learning with Keras learning path – complete this path to learn how to apply deep learning algorithms in Python's Keras library. Discover the theory behind transfer learning, how it works and the purpose it serves, and utilize pre-trained networks for image classification in practice. 
+# Transfer Learning with Pre-Trained Networks
+[![GitHub issues](https://img.shields.io/github/issues/Develop-Packt/Transfer-Learning-with-Pre-Trained-Networks.svg)](https://github.com/Develop-Packt/Transfer-Learning-with-Pre-Trained-Networks/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Develop-Packt/Transfer-Learning-with-Pre-Trained-Networks.svg)](https://github.com/Develop-Packt/Transfer-Learning-with-Pre-Trained-Networks/network)
+[![GitHub stars](https://img.shields.io/github/stars/Develop-Packt/Transfer-Learning-with-Pre-Trained-Networks.svg)](https://github.com/Develop-Packt/Transfer-Learning-with-Pre-Trained-Networks/stargazers)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Develop-Packt/Transfer-Learning-with-Pre-Trained-Networks/pulls)
